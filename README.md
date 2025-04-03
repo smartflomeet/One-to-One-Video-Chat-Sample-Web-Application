@@ -37,7 +37,7 @@ Prerequisite: latest version of `Node.js` and `git` Installed
 #### 3.2.1 Clone project repository
 
 * Clone this repository `git clone https://github.com/smartflomeet/One-to-One-Video-Chat-Sample-Web-Application.git --recursive`
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Please note `--recursive` option. Repo should be cloned recursively to download `client` app. 
+### Please note `--recursive` option. Repo should be cloned recursively to download `client` app. 
 
 #### 3.2.2 SSL Certificates or Self-Signed Certificates
 
